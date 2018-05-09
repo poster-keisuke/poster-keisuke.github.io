@@ -3,8 +3,8 @@
 // キャッシュ名とキャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-	'/pwa/',
-	'/pwa/css/style.css',
+	'/poster-keisuke.github.io/',
+	'/poster-keisuke.github.io/css/style.css',
 	// '/pwa/drawer.js'
 ];
 

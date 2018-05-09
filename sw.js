@@ -5,7 +5,7 @@ var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
 	'/poster-keisuke.github.io/',
 	'/poster-keisuke.github.io/css/style.css',
-	// '/pwa/drawer.js'
+	'/poster-keisuke.github.io/drawer.js'
 ];
 
 // インストール処理
